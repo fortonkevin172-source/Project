@@ -1,0 +1,50 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(15, 134, 231);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(26, 9, 180);
+}
+
+form {
+    background-color: rgb(146, 235, 241);
+    padding: 20px;
+}
+
+input, select, textarea {
+    padding: 8px;
+}
+
+input[type="submit"] {
+    background-color: rgb(8, 75, 119);
+    color: white;
+}
+
+input[type="reset"] {
+    background-color: rgb(180, 129, 138);
+    color: white;
+}
+
+table {
+    width: 100%;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgb(85, 85, 214);
+    color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
